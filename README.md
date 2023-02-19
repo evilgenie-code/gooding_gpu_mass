@@ -11,7 +11,13 @@
 [Массивно параллельно решение задачи Ламберта](https://iopscience.iop.org/article/10.1088/1742-6596/1925/1/012078)
 
 
-## Смежные репозитории
+## Смежные репозитории, решение задачи Ламберта с помощью GPU
 
 - [Решение методом Суханова](https://github.com/evilgenie-code/suhanov_gpu_mass)
 - [Решение методом Иццо](https://github.com/evilgenie-code/izzo-dynamically-parallel)
+
+## Иходные алгоритмы (написанные авторами на C++)
+
+- [Решение методом Суханова](https://github.com/evilgenie-code/suhanov_cpu)
+- [Решение методом Иццо](https://github.com/evilgenie-code/izzo_cpu)
+- [Решение методом Гудинга](https://github.com/evilgenie-code/gooding_cpu)
